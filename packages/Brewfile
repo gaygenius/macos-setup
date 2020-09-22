@@ -1,0 +1,19 @@
+tap 'homebrew/cask-versions'
+tap 'homebrew/bundle'
+
+cask 'visual-studio-code'
+cask 'docker'
+cask 'iterm2'
+cask 'slack'
+cask 'zoomus'
+cask 'spectacle'
+
+brew 'git'
+brew 'mas'
+brew 'wget'
+brew 'rbenv'
+brew 'watch'
+
+mas 'Flycut (Clipboard manager)', id: 442160987
+mas 'Amphetamine', id: 937984704
+# mas 'Xcode', id: 497799835
